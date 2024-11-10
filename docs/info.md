@@ -17,4 +17,4 @@ Reset with reset button and press step button
 
 ## External hardware
 
-LEDs connected to every output pin + reset and step button
+LEDs connected to every output pin + reset and step button, no input data buttons
